@@ -1,0 +1,2 @@
+使用urllib.request.ProxyHandler()来设置对应的代理服务器的信息
+格式为:urllib.request.ProxyHandler({'http':代理服务器地址})

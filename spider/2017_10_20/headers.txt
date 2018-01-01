@@ -1,0 +1,9 @@
+#设置报头1
+header=("User-Agent","Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36")
+opener = urllib.request.build_opener()
+opener.addheaders = [headers]
+data = opener.open(url).read()
+#设置报头2
+req = urllib.request.Request(url)
+req.add_header('User-Agent','Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko')
+data = urllib.request.urlopen(req).read()
