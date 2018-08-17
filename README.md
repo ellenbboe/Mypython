@@ -1,4 +1,6 @@
 # mypython
-ÕâÊÇÒ»¸öpythonµÄÏîÄ¿¿â
-ÎÒ»á³¢ÊÔ½«ÎÒËù×öµÄpythonÏîÄ¿·ÅÈë¿âÖÐ±£´æ
-ÒÔ±ãÓÚ¹ÜÀíºÍ½»Á÷Ê¹ÓÃ
+è¿™æ˜¯ä¸€ä¸ªä½¿ç”¨pythonçš„åœ°æ–¹
+
+å¤§é“è‡³ç®€,å”¯æœ‰èŸ’è›‡
+
+![](https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=2027255210,2260564727&fm=27&gp=0.jpg)
