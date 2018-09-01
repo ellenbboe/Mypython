@@ -43,7 +43,16 @@ def listfiles():
     for part in d:
         print(part)
     print("-----done-----")
-
+#---------------------------
+# mkdir
+#---------------------------
+def makedir():
+    checkdir= input("输入要创建的文件夹的名称:")
+    if( os.path.exists(checkdir)):
+        print("----文件夹已存在----")
+    else:
+        os.mkdir(checkdir)
+        print("----文件夹已创建----")
 
 
 if __name__ == '__main__':
