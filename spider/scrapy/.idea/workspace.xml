@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="2b40c9e7-bf40-46dd-bfc2-e341c5337876" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../../bot/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../bot/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../bot/script/msgtest.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../bot/script/msgtest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/naojingjizhuanwan/naojingjizhuanwan/spiders/zhiliti.py" beforeDir="false" afterPath="$PROJECT_DIR$/naojingjizhuanwan/naojingjizhuanwan/spiders/zhiliti.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -54,52 +54,50 @@
     <session id="-1432347458">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="7" />
-          <entry key="project.open.time.1" value="3" />
+          <entry key="project.closed" value="8" />
+          <entry key="project.open.time.1" value="4" />
           <entry key="project.open.time.16" value="1" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.5" value="2" />
-          <entry key="project.opened" value="7" />
+          <entry key="project.opened" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="cfg" value="1" />
-          <entry key="json" value="5" />
-          <entry key="py" value="9" />
+          <entry key="json" value="20" />
+          <entry key="py" value="13" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JSON" value="5" />
+          <entry key="JSON" value="20" />
           <entry key="PLAIN_TEXT" value="1" />
-          <entry key="Python" value="9" />
+          <entry key="Python" value="13" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="81" />
+          <entry key="py" value="313" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="81" />
+          <entry key="Python" value="313" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/naojingjizhuanwan/scrapy.cfg">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/naojingjizhuanwan/naojingjizhuanwan/spiders/zhiliti.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
-              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+            <state relative-caret-position="394">
+              <caret line="17" column="93" selection-start-line="17" selection-start-column="93" selection-end-line="17" selection-end-column="93" />
+              <folding>
+                <element signature="e#24#37#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -128,6 +126,8 @@
         <option value="$PROJECT_DIR$/bingdesktop/bingdesktop/settings.py" />
         <option value="$PROJECT_DIR$/juzimi/juzimi/spiders/juzimi.py" />
         <option value="$PROJECT_DIR$/naojingjizhuanwan/naojingjizhuanwan/settings.py" />
+        <option value="$PROJECT_DIR$/naojingjizhuanwan/result.json" />
+        <option value="$PROJECT_DIR$/naojingjizhuanwan/naojingjizhuanwan/spiders/zhiliti.py" />
       </list>
     </option>
   </component>
@@ -155,19 +155,6 @@
               <item name="scrapy" type="462c0819:PsiDirectoryNode" />
               <item name="naojingjizhuanwan" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="scrapy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="scrapy" type="462c0819:PsiDirectoryNode" />
-              <item name="naojingjizhuanwan" type="462c0819:PsiDirectoryNode" />
-              <item name="naojingjizhuanwan" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="scrapy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="scrapy" type="462c0819:PsiDirectoryNode" />
-              <item name="naojingjizhuanwan" type="462c0819:PsiDirectoryNode" />
-              <item name="naojingjizhuanwan" type="462c0819:PsiDirectoryNode" />
-              <item name="spiders" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -176,7 +163,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../bot/script/msgtest.py" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="PyConsoleOptionsProvider">
@@ -235,7 +222,7 @@
       <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="9" />
-      <window_info anchor="bottom" x="10" y="272" width="1899" height="576" id="Terminal" order="10" visible="true" weight="0.2597561" />
+      <window_info anchor="bottom" x="10" y="272" width="1899" height="576" id="Terminal" order="10" visible="true" weight="0.30609757" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -367,27 +354,6 @@
     <entry file="file://$PROJECT_DIR$/bingdesktop/description.json">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/juzimi/result.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="122" column="51" selection-start-line="122" selection-start-column="51" selection-end-line="122" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/juzimi/juzimi/spiders/juzimi.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bingdesktop/bingdesktop/spiders/bingdesktop.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="337">
-          <caret line="19" column="89" selection-start-line="18" selection-start-column="8" selection-end-line="19" selection-end-column="89" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/naojingjizhuanwan/naojingjizhuanwan/settings.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
@@ -405,10 +371,48 @@
     <entry file="file://$PROJECT_DIR$/naojingjizhuanwan/scrapy.cfg">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/juzimi/result.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="122" column="51" selection-start-line="122" selection-start-column="51" selection-end-line="122" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/juzimi/juzimi/spiders/juzimi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="10" column="19" lean-forward="true" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bingdesktop/bingdesktop/spiders/bingdesktop.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="14" column="97" selection-start-line="14" selection-start-column="97" selection-end-line="14" selection-end-column="97" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../bot/script/msgtest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="18" column="43" selection-start-line="18" selection-start-column="43" selection-end-line="18" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/naojingjizhuanwan/result.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1828">
+          <caret line="927" column="26" lean-forward="true" selection-start-line="927" selection-start-column="26" selection-end-line="927" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/naojingjizhuanwan/naojingjizhuanwan/spiders/zhiliti.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        <state relative-caret-position="394">
+          <caret line="17" column="93" selection-start-line="17" selection-start-column="93" selection-end-line="17" selection-end-column="93" />
+          <folding>
+            <element signature="e#24#37#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
