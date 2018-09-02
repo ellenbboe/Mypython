@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="715ecda9-4267-445a-92ef-1fa5ccc0c365" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/script/msgtest.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/script/msgtest.py" beforeDir="false" afterPath="$PROJECT_DIR$/script/msgtest.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../spider/scrapy/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spider/scrapy/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,11 +16,13 @@
     <session id="1590725104">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
+          <entry key="project.closed" value="5" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.18" value="1" />
           <entry key="project.open.time.3" value="1" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.opened" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -38,27 +40,28 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="json" value="67" />
-          <entry key="py" value="1975" />
+          <entry key="py" value="2982" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="JSON" value="67" />
-          <entry key="Python" value="1975" />
+          <entry key="Python" value="2981" />
+          <entry key="RegExp" value="1" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/script/msgtest.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="448">
-              <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
+            <state relative-caret-position="365">
+              <caret line="74" column="8" lean-forward="true" selection-start-line="74" selection-start-column="8" selection-end-line="74" selection-end-column="8" />
               <folding>
                 <element signature="e#24#35#0" expanded="true" />
-                <marker date="1535867292829" expanded="true" signature="1073:1078" ph="..." />
+                <marker date="1535878975787" expanded="true" signature="2607:2617" ph="..." />
               </folding>
             </state>
           </provider>
@@ -168,7 +171,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/script" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../spider/scrapy" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -203,8 +206,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="32" width="1680" height="984" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2498484" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2498484" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -215,7 +219,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.19390243" />
+      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.22682928" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
@@ -241,20 +245,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/script/CenterWeatherCityCode.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="28">
-          <caret line="6" column="21" lean-forward="true" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/script/CenterWeatherCityCode.json" />
     <entry file="file://$PROJECT_DIR$/script/msgtest.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="448">
-          <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
+        <state relative-caret-position="365">
+          <caret line="74" column="8" lean-forward="true" selection-start-line="74" selection-start-column="8" selection-end-line="74" selection-end-column="8" />
           <folding>
             <element signature="e#24#35#0" expanded="true" />
-            <marker date="1535867292829" expanded="true" signature="1073:1078" ph="..." />
+            <marker date="1535878975787" expanded="true" signature="2607:2617" ph="..." />
           </folding>
         </state>
       </provider>
