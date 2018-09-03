@@ -1,1 +1,1 @@
-cp ./msgtest.py ~/.qqbot-tmp/plugins/
+cp ./* ~/.qqbot-tmp/plugins/
