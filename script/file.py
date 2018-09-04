@@ -2,7 +2,9 @@
 
 import sys
 import os
-
+import json
+import re
+from urllib import request
 
 #---------------------------
 # 读出文件 cat
@@ -55,5 +57,3 @@ def makedir():
         print("----文件夹已创建----")
 
 
-if __name__ == '__main__':
-    print("文件操作脚本")

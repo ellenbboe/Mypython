@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="715ecda9-4267-445a-92ef-1fa5ccc0c365" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/script/msgtest.py" beforeDir="false" afterPath="$PROJECT_DIR$/script/msgtest.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/script/result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/script/transfer.sh" beforeDir="false" afterPath="$PROJECT_DIR$/script/transfer.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spider/scrapy/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spider/scrapy/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spider/scrapy/naojingjizhuanwan/result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../script/file.py" beforeDir="false" afterPath="$PROJECT_DIR$/../script/file.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,21 +14,22 @@
     <session id="1590725104">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="7" />
+          <entry key="project.closed" value="8" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.15" value="1" />
           <entry key="project.open.time.17" value="1" />
           <entry key="project.open.time.18" value="1" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.5" value="1" />
-          <entry key="project.opened" value="7" />
+          <entry key="project.opened" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="json" value="4" />
-          <entry key="py" value="4" />
+          <entry key="py" value="5" />
           <entry key="sh" value="1" />
         </counts>
       </usages-collector>
@@ -41,13 +37,13 @@
         <counts>
           <entry key="JSON" value="4" />
           <entry key="PLAIN_TEXT" value="1" />
-          <entry key="Python" value="4" />
+          <entry key="Python" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="json" value="67" />
-          <entry key="py" value="4382" />
+          <entry key="py" value="4405" />
           <entry key="sh" value="1" />
         </counts>
       </usages-collector>
@@ -55,7 +51,7 @@
         <counts>
           <entry key="JSON" value="67" />
           <entry key="PLAIN_TEXT" value="1" />
-          <entry key="Python" value="4381" />
+          <entry key="Python" value="4404" />
           <entry key="RegExp" value="1" />
         </counts>
       </usages-collector>
@@ -66,10 +62,9 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/script/msgtest.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="143" lean-forward="true" selection-start-line="143" selection-end-line="143" />
+            <state relative-caret-position="580">
+              <caret line="143" selection-start-line="143" selection-end-line="143" />
               <folding>
-                <element signature="e#24#35#0" expanded="true" />
                 <marker date="1535947149251" expanded="true" signature="3336:5118" ph="..." />
                 <marker date="1535947149251" expanded="true" signature="3936:5118" ph="..." />
               </folding>
@@ -80,7 +75,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/venv/lib/python3.7/site-packages/qqbot/basicqsession.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
+            <state relative-caret-position="7532">
               <caret line="269" column="56" selection-start-line="269" selection-start-column="56" selection-end-line="269" selection-end-column="56" />
             </state>
           </provider>
@@ -89,7 +84,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/script/zhiliti.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="22820">
+            <state relative-caret-position="397">
               <caret line="926" column="31" selection-start-line="926" selection-start-column="31" selection-end-line="926" selection-end-column="31" />
             </state>
           </provider>
@@ -113,6 +108,7 @@
         <option value="$PROJECT_DIR$/script/transfer.sh" />
         <option value="$PROJECT_DIR$/venv/lib/python3.7/site-packages/qqbot/basicqsession.py" />
         <option value="$PROJECT_DIR$/script/msgtest.py" />
+        <option value="$PROJECT_DIR$/../script/file.py" />
       </list>
     </option>
   </component>
@@ -128,6 +124,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -197,11 +194,10 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../spider/scrapy" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -248,7 +244,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.36341465" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.11341464" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
@@ -267,13 +263,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/script/result.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="278">
-          <caret line="123" column="45" selection-start-line="123" selection-start-column="45" selection-end-line="123" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/script/result.json" />
     <entry file="file://$PROJECT_DIR$/script/CenterWeatherCityCode.json" />
     <entry file="file://$PROJECT_DIR$/script/transfer.sh">
       <provider selected="true" editor-type-id="text-editor">
@@ -284,26 +274,35 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/venv/lib/python3.7/site-packages/qqbot/basicqsession.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
+        <state relative-caret-position="7532">
           <caret line="269" column="56" selection-start-line="269" selection-start-column="56" selection-end-line="269" selection-end-column="56" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/script/msgtest.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="143" lean-forward="true" selection-start-line="143" selection-end-line="143" />
+        <state relative-caret-position="580">
+          <caret line="143" selection-start-line="143" selection-end-line="143" />
           <folding>
-            <element signature="e#24#35#0" expanded="true" />
             <marker date="1535947149251" expanded="true" signature="3336:5118" ph="..." />
             <marker date="1535947149251" expanded="true" signature="3936:5118" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/../script/file.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="122">
+          <caret line="55" column="3" lean-forward="true" selection-start-line="55" selection-start-column="3" selection-end-line="55" selection-end-column="3" />
+          <folding>
+            <element signature="e#24#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/script/zhiliti.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22820">
+        <state relative-caret-position="397">
           <caret line="926" column="31" selection-start-line="926" selection-start-column="31" selection-end-line="926" selection-end-column="31" />
         </state>
       </provider>

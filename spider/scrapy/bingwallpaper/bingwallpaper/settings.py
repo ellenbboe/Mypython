@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-# Scrapy settings for forpicture project
+# Scrapy settings for bingwallpaper project
 #
 # For simplicity, this file contains only settings considered important or
 # commonly used. You can find more settings consulting the documentation:
@@ -9,14 +9,14 @@
 #     https://doc.scrapy.org/en/latest/topics/downloader-middleware.html
 #     https://doc.scrapy.org/en/latest/topics/spider-middleware.html
 
-BOT_NAME = 'forpicture'
-
-SPIDER_MODULES = ['forpicture.spiders']
-NEWSPIDER_MODULE = 'forpicture.spiders'
+BOT_NAME = 'bingwallpaper'
+FEED_EXPORT_ENCODING = 'utf-8'
+SPIDER_MODULES = ['bingwallpaper.spiders']
+NEWSPIDER_MODULE = 'bingwallpaper.spiders'
 
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
-#USER_AGENT = 'forpicture (+http://www.yourdomain.com)'
+#USER_AGENT = 'bingwallpaper (+http://www.yourdomain.com)'
 
 # Obey robots.txt rules
 ROBOTSTXT_OBEY = True
@@ -47,13 +47,13 @@ ROBOTSTXT_OBEY = True
 # Enable or disable spider middlewares
 # See https://doc.scrapy.org/en/latest/topics/spider-middleware.html
 #SPIDER_MIDDLEWARES = {
-#    'forpicture.middlewares.ForpictureSpiderMiddleware': 543,
+#    'bingwallpaper.middlewares.BingwallpaperSpiderMiddleware': 543,
 #}
 
 # Enable or disable downloader middlewares
 # See https://doc.scrapy.org/en/latest/topics/downloader-middleware.html
 #DOWNLOADER_MIDDLEWARES = {
-#    'forpicture.middlewares.ForpictureDownloaderMiddleware': 543,
+#    'bingwallpaper.middlewares.BingwallpaperDownloaderMiddleware': 543,
 #}
 
 # Enable or disable extensions
@@ -65,7 +65,7 @@ ROBOTSTXT_OBEY = True
 # Configure item pipelines
 # See https://doc.scrapy.org/en/latest/topics/item-pipeline.html
 #ITEM_PIPELINES = {
-#    'forpicture.pipelines.ForpicturePipeline': 300,
+#    'bingwallpaper.pipelines.BingwallpaperPipeline': 300,
 #}
 
 # Enable and configure the AutoThrottle extension (disabled by default)

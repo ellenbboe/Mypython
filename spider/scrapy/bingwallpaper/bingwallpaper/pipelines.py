@@ -6,6 +6,6 @@
 # See: https://doc.scrapy.org/en/latest/topics/item-pipeline.html
 
 
-class ForpicturePipeline(object):
+class BingwallpaperPipeline(object):
     def process_item(self, item, spider):
         return item
