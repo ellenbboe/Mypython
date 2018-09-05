@@ -1,20 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2b40c9e7-bf40-46dd-bfc2-e341c5337876" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../../bot/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../bot/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../script/file.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../script/file.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bingdesktop/bingdesktop/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bingdesktop/bingdesktop/items.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bingdesktop/bingdesktop/middlewares.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bingdesktop/bingdesktop/pipelines.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bingdesktop/bingdesktop/settings.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bingdesktop/bingdesktop/spiders/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bingdesktop/bingdesktop/spiders/bingdesktop.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bingdesktop/description.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bingdesktop/scrapy.cfg" beforeDir="false" />
-    </list>
+    <list default="true" id="2b40c9e7-bf40-46dd-bfc2-e341c5337876" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,51 +51,57 @@
     <session id="-1432347458">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="10" />
+          <entry key="project.closed" value="11" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.1" value="4" />
+          <entry key="project.open.time.12" value="1" />
           <entry key="project.open.time.15" value="1" />
           <entry key="project.open.time.16" value="1" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.5" value="2" />
-          <entry key="project.opened" value="10" />
+          <entry key="project.opened" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="cfg" value="2" />
+          <entry key="cfg" value="3" />
           <entry key="json" value="23" />
-          <entry key="py" value="25" />
+          <entry key="py" value="29" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="JSON" value="23" />
-          <entry key="PLAIN_TEXT" value="2" />
-          <entry key="Python" value="25" />
+          <entry key="PLAIN_TEXT" value="3" />
+          <entry key="Python" value="29" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="725" />
+          <entry key="py" value="822" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="725" />
+          <entry key="Python" value="822" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../../bot/script/msgtest.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/traintips/traintips/spiders/start.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-504">
-              <caret line="97" column="7" lean-forward="true" selection-start-line="97" selection-start-column="7" selection-end-line="97" selection-end-column="7" />
+            <state relative-caret-position="188">
+              <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/traintips/traintips/middlewares.py">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -141,6 +134,8 @@
         <option value="$PROJECT_DIR$/bingwallpaper/bingwallpaper/settings.py" />
         <option value="$PROJECT_DIR$/bingwallpaper/bingwallpaper/spiders/start.py" />
         <option value="$PROJECT_DIR$/../../script/file.py" />
+        <option value="$PROJECT_DIR$/traintips/traintips/settings.py" />
+        <option value="$PROJECT_DIR$/traintips/traintips/spiders/start.py" />
       </list>
     </option>
   </component>
@@ -156,6 +151,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -166,30 +162,23 @@
             <path>
               <item name="scrapy" type="b2602c69:ProjectViewProjectNode" />
               <item name="scrapy" type="462c0819:PsiDirectoryNode" />
-              <item name="bingwallpaper" type="462c0819:PsiDirectoryNode" />
+              <item name="bilibili_list" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="scrapy" type="b2602c69:ProjectViewProjectNode" />
               <item name="scrapy" type="462c0819:PsiDirectoryNode" />
-              <item name="bingwallpaper" type="462c0819:PsiDirectoryNode" />
-              <item name="bingwallpaper" type="462c0819:PsiDirectoryNode" />
+              <item name="traintips" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="scrapy" type="b2602c69:ProjectViewProjectNode" />
               <item name="scrapy" type="462c0819:PsiDirectoryNode" />
-              <item name="juzimi" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="scrapy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="scrapy" type="462c0819:PsiDirectoryNode" />
-              <item name="juzimi" type="462c0819:PsiDirectoryNode" />
-              <item name="juzimi" type="462c0819:PsiDirectoryNode" />
+              <item name="traintips" type="462c0819:PsiDirectoryNode" />
+              <item name="traintips" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -238,13 +227,12 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="32" width="1680" height="984" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.17707701" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" order="0" weight="0.32918552" />
-      <window_info anchor="bottom" id="Python Console" order="1" weight="0.32918552" />
+      <window_info anchor="bottom" id="Python Console" order="1" weight="0.32804877" />
       <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" weight="0.32918552" />
       <window_info anchor="bottom" id="Message" order="3" />
       <window_info anchor="bottom" id="Find" order="4" weight="0.3292683" />
@@ -253,7 +241,7 @@
       <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="9" />
-      <window_info anchor="bottom" x="10" y="272" width="1899" height="576" id="Terminal" order="10" visible="true" weight="0.21097562" />
+      <window_info anchor="bottom" x="10" y="272" width="1899" height="576" id="Terminal" order="10" visible="true" weight="0.44268292" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -263,18 +251,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/venv/pip-selfcheck.json" />
-    <entry file="file://$PROJECT_DIR$/quotesbot/a.json" />
-    <entry file="file://$PROJECT_DIR$/quotesbot/xpath.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="9" column="6" lean-forward="true" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/quotesbot/quotesbot/settings.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/quotesbot/quotesbot/items.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -368,13 +344,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bingdesktop/bingdesktop/spiders/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/bingdesktop/bingdesktop/spiders/__init__.py" />
     <entry file="file://$PROJECT_DIR$/juzimi/a.json" />
-    <entry file="file://$PROJECT_DIR$/bingdesktop/description.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/bingdesktop/description.json" />
     <entry file="file://$PROJECT_DIR$/naojingjizhuanwan/naojingjizhuanwan/settings.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
@@ -404,54 +376,18 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="476">
           <caret line="17" column="93" selection-start-line="17" selection-start-column="93" selection-end-line="17" selection-end-column="93" />
-          <folding>
-            <element signature="e#24#37#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/juzimi/juzimi/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="19" selection-start-line="19" selection-end-line="19" selection-end-column="30" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/juzimi/scrapy.cfg">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/bingdesktop/bingdesktop/pipelines.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bingdesktop/bingdesktop/middlewares.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-168" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bingdesktop/bingdesktop/items.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="10" column="6" lean-forward="true" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bingdesktop/bingdesktop/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bingdesktop/bingdesktop/spiders/bingdesktop.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="15" column="13" lean-forward="true" selection-start-line="8" selection-start-column="4" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bingdesktop/bingdesktop/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="12" selection-start-line="12" selection-end-line="12" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/bingdesktop/bingdesktop/pipelines.py" />
+    <entry file="file://$PROJECT_DIR$/bingdesktop/bingdesktop/middlewares.py" />
+    <entry file="file://$PROJECT_DIR$/bingdesktop/bingdesktop/items.py" />
+    <entry file="file://$PROJECT_DIR$/bingdesktop/bingdesktop/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/bingdesktop/bingdesktop/spiders/bingdesktop.py" />
+    <entry file="file://$PROJECT_DIR$/bingdesktop/bingdesktop/settings.py" />
     <entry file="file://$PROJECT_DIR$/bingwallpaper/bingwallpaper/settings.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="112">
@@ -463,9 +399,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="52" column="34" lean-forward="true" selection-start-line="52" selection-start-column="34" selection-end-line="52" selection-end-column="34" />
-          <folding>
-            <element signature="e#24#34#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -483,12 +416,39 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../bot/script/msgtest.py">
+    <entry file="file://$PROJECT_DIR$/juzimi/juzimi/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-504">
-          <caret line="97" column="7" lean-forward="true" selection-start-line="97" selection-start-column="7" selection-end-line="97" selection-end-column="7" />
+        <state relative-caret-position="196">
+          <caret line="19" selection-start-line="19" selection-end-line="19" selection-end-column="30" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/traintips/traintips/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="22" column="30" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/traintips/scrapy.cfg">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../bot/script/msgtest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="28">
+          <caret line="97" column="7" selection-start-line="97" selection-start-column="7" selection-end-line="97" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/traintips/traintips/spiders/start.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/traintips/traintips/middlewares.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
   <component name="masterDetails">
